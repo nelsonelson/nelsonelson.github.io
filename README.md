@@ -1,3 +1,6 @@
+---
+title: Nelsonelson photography
+---
 # photography
 
 scandinavia 2024
