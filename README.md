@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # photography
 
 summer 2024
