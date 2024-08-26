@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: post
 ---
-# photography
+# Readme
 
 summer 2024
 
