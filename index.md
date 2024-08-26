@@ -26,3 +26,19 @@ summer 2024
 ![](/content/10.jpeg)
 
 ![](/content/11.jpeg)
+
+![](/content/12.jpeg)
+
+![](/content/13.jpeg)
+
+![](/content/14.jpeg)
+
+![](/content/15.jpeg)
+
+![](/content/16.jpeg)
+
+![](/content/17.jpeg)
+
+![](/content/18.jpeg)
+
+![](/content/19.jpeg)
