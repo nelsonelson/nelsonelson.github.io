@@ -1,6 +1,3 @@
----
-layout: post
----
 # Readme
 
 summer 2024
