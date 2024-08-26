@@ -19,3 +19,5 @@ tags
 [._]*.un~
 
 _site/
+
+.DS_Store
