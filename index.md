@@ -13,15 +13,21 @@ summer 2024
 
 ![](/content/4.jpeg)
 
+by camille
+
 ![](/content/5.jpeg)
 
 ![](/content/6.jpeg)
 
 ![](/content/7.jpeg)
 
+by camille
+
 ![](/content/8.jpeg)
 
 ![](/content/9.jpeg)
+
+by camille
 
 ![](/content/10.jpeg)
 
@@ -36,6 +42,8 @@ summer 2024
 ![](/content/15.jpeg)
 
 ![](/content/16.jpeg)
+
+by camille
 
 ![](/content/17.jpeg)
 
