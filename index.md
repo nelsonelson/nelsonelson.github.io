@@ -2,6 +2,8 @@
 layout: home
 ---
 
+# photography
+
 summer 2024
 
 ![](/content/1.jpeg)
