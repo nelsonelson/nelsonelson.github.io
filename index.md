@@ -1,9 +1,7 @@
 ---
-layout: home
+layout: page
 title: Photos
 ---
-
-# photography
 
 summer 2024
 
