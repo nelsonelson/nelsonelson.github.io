@@ -1,3 +1,8 @@
+---
+layout: page
+title: Gaming
+---
+
 
 
 - dragon quest 3
