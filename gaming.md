@@ -41,4 +41,4 @@ Ranked in totally subjective order:
 - shin megami tensei 4
 - mario odyssey
 - unicorn overlord
-- monster hunder wilds
+- monster hunter wilds
